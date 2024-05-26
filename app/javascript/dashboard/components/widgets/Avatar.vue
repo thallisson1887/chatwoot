@@ -46,7 +46,7 @@ export default {
   }
 
   .dark-avatar-color {
-    background-image: linear-gradient(to top, #135899 0%, #135899 100%);
+    background-image: linear-gradient(to top, #91a30a 0%, #91a30a 100%);
   }
 }
 .avatar-container {
